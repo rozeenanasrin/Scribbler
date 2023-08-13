@@ -1,0 +1,62 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+
+
+  #myheader{
+    font-family:'Montez', cursive;
+         font-size: 40px;
+         color: rgb(11, 11, 153);
+  }
+
+body{
+
+    background-color: rgb(245, 245, 180);
+}
+
+.ctn{
+
+    background-color: rgb(168, 168, 168);
+
+    
+
+}
+
+
+
+.postlist{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.box{
+    height: auto;
+    width: auto;
+    right: auto;
+    left: auto;
+
+}
+
+.wholecard{
+
+     justify-content: center;
+     align-items: center;
+     width: auto;
+     height: auto;
+     margin-left: 1%;
+}
+
+.readmore{
+
+    color: black;
+}
+
+.nav-btn{
+
+   
+
+}
+
+
